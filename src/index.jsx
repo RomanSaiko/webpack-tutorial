@@ -6,7 +6,7 @@ import WebpackLogo from './assets/webpack-logo.png'
 // import csv from './assets/data.csv'
 import './babel'
 import React from 'react'
-import {render} from 'react'
+import {render} from 'react-dom'
 
 import './styles/styles.css'
 import './styles/less.less'
